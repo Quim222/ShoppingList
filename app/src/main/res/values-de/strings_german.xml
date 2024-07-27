@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome_aplicacao" >Einkaufsliste</string>
+    <string name="update">Aktualisieren</string>
+    <string name="delete">Ausschalten</string>
+    <string name="preco">Preis</string>
+    <string name="quantidade">Menge</string>
+    <string name="nome_prod">Produktname</string>
+    <string name="noData">Am Datum.</string>
+    <string name="total">Gesamt: %s</string>
+    <string name="adicionar">HINZUFÜGEN</string>
+    <string name="hint_quantidade">Menge</string>
+    <string name="hint_nome">Produktname</string>
+    <string name="toast_feito">Erledigt</string>
+    <string name="toast_erro">FEHLER</string>
+    <string name="toast_update">Update erfolgreich!</string>
+    <string name="toast_delete">Erfolgreich gelöscht.</string>
+    <string name="toast_delete_erro">Fehler beim Löschen.</string>
+    <string name="boasVindas">Produktaktualisierungsseite</string>
+    <string name="boasVindas_texto">- Auf dieser Seite können Sie Produktwerte aktualisieren. Nehmen Sie einfach die gewünschten Änderungen vor und klicken Sie dann auf die Schaltfläche „Aktualisieren“.\n- Wenn Sie ein Produkt löschen möchten, klicken Sie einfach auf die Schaltfläche „Löschen“.</string>
+
+
+
+</resources>

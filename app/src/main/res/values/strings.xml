@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Lista de Compras</string>
+    <string name="nome_aplicacao" >Lista de Compras</string>
+    <string name="preco">Preço</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="nome_prod">Nome Produto</string>
+    <string name="update">Atualizar</string>
+    <string name="delete">Apagar</string>
+    <string name="noData">No Data.</string>
+    <string name="total">Total: %s</string>
+    <string name="adicionar">ADICIONAR</string>
+    <string name="hint_quantidade">Quantidade</string>
+    <string name="hint_nome">Nome Produto</string>
+
+    <string name="toast_feito">Feito</string>
+    <string name="toast_erro">ERRO</string>
+
+    <string name="toast_update">Atualização com sucesso!</string>
+
+    <string name="toast_delete">Apagado com sucesso.</string>
+    <string name="toast_delete_erro">Erro a apagar.</string>
+
+    <string name="boasVindas">Página de Atualização de Produtos</string>
+    <string name="boasVindas_texto">- Nesta página, você pode atualizar os valores dos produtos. Basta fazer as alterações desejadas e depois pressionar o botão \'Atualizar\'.\n- Se você quiser apagar um produto, é só clicar no botão \'Apagar\'.</string>
+
+
+
+
+
+
+</resources>

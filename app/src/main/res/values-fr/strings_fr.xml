@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome_aplicacao" >Liste de courses</string>
+    <string name="update">Mettre à jour</string>
+    <string name="delete">Éteindre</string>
+    <string name="preco">Prix</string>
+    <string name="quantidade">Quantité</string>
+    <string name="nome_prod">Nom du produit</string>
+    <string name="noData">Pas de date.</string>
+    <string name="total">Total: %s</string>
+    <string name="adicionar">AJOUTER</string>
+    <string name="hint_quantidade">Montant</string>
+    <string name="hint_nome">Nom du produit</string>
+    <string name="toast_feito">Fait</string>
+    <string name="toast_erro">ERREUR</string>
+    <string name="toast_update">Mise à jour réussie!</string>
+    <string name="toast_delete">Supprimé avec succès.</string>
+    <string name="toast_delete_erro">Erreur.</string>
+    <string name="boasVindas">Page de mise à jour du produit</string>
+    <string name="boasVindas_texto">- Sur cette page, vous pouvez mettre à jour les valeurs des produits. Effectuez simplement les modifications souhaitées, puis appuyez sur le bouton \'Mettre à jour\'.\n- Si vous souhaitez supprimer un produit, cliquez simplement sur le bouton \'Supprimer\'.</string>
+
+
+
+</resources>

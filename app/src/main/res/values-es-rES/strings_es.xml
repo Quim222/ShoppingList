@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome_aplicacao" >Lista de compras</string>
+    <string name="update">Atualizar</string>
+    <string name="delete">Apagar</string>
+    <string name="preco">Precio</string>
+    <string name="quantidade">Cantidad</string>
+    <string name="nome_prod">Nombre</string>
+    <string name="noData">A tiempo.</string>
+    <string name="total">Total: %s</string>
+    <string name="adicionar">AGREGAR</string>
+    <string name="hint_quantidade">Cantidad</string>
+    <string name="hint_nome">Nombre del Producto</string>
+    <string name="toast_feito">Hecho</string>
+    <string name="toast_erro">ERROR</string>
+    <string name="toast_update">¡Actualizar correctamente!</string>
+    <string name="toast_delete">Eliminado con éxito.</string>
+    <string name="toast_delete_erro">Error al eliminar.</string>
+    <string name="boasVindas">Página de actualización del producto</string>
+    <string name="boasVindas_texto">- En esta página, puede actualizar los valores de los productos. Simplemente haga los cambios deseados y luego presione el botón \'Actualizar\'.\n- Si desea eliminar un producto, simplemente haga clic en el botón \'Eliminar\'.</string>
+
+
+
+
+</resources>

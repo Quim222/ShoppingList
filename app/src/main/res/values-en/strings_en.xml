@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nome_aplicacao" >Shopping list</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="preco">Price</string>
+    <string name="quantidade">Amount</string>
+    <string name="nome_prod">Product Name</string>
+    <string name="noData">No Data.</string>
+    <string name="total">Total: %s</string>
+    <string name="adicionar">ADD</string>
+    <string name="hint_quantidade">Amount</string>
+    <string name="hint_nome">Product Name</string>
+    <string name="toast_feito">Done</string>
+    <string name="toast_erro">ERROR</string>
+    <string name="toast_update">Update successfully!</string>
+    <string name="toast_delete">Successfully Deleted.</string>
+    <string name="toast_delete_erro">Error deleting.</string>
+    <string name="boasVindas">Product Update Page</string>
+    <string name="boasVindas_texto">- On this page, you can update product values. Just make the desired changes and then press the \'Update\' button.\n- If you want to delete a product, just click the \'Delete\' button.</string>
+
+
+
+</resources>
